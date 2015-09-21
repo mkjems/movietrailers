@@ -9,5 +9,4 @@ You can run the code with:
 ``` 
 
 Martin Kjems
-mkjems@gmail.com
 
