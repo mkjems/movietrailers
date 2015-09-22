@@ -1,3 +1,5 @@
+#!/usr/bin/python2.7
+
 # import the display functionality
 import fresh_tomatoes
 
