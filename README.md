@@ -1,11 +1,7 @@
 
 # P1 Movie Trailer Website
 
-This is my solution to the first Udacity project in the course "Full Stack Web Developer Nanodegree"
-
-## Install python 2.7
-
-Goto https://www.python.org/downloads/
+Movie Trailer Website are two scripts that will show a list of movie objects on a webpage inside a browser.
 
 ## Download
 
@@ -16,11 +12,13 @@ cd movietrailers
 
 ## Run the code
 
-You can run the code with:
+You can then run the code with:
 
 ```
 	./media.py
 ``` 
+
+This will create the file 'fresh_tomatoes.html' and open it in your systems web browser
 
 Martin Kjems
 
